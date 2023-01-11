@@ -1,3 +1,5 @@
+open Stdlib0
+
 module From = Ast_500
 module To = Ast_414
 let rec copy_toplevel_phrase :
